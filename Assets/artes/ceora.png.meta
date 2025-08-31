@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: ff9e95d6ce992d04d8d4b9b5e86a3377
+guid: 1c989a03d9d6d1f49b60a3cff8433ebb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1379541409456323711
-    second: aula1_tarefa_0
-  - first:
-      213: 3709914530092688905
-    second: aula1_tarefa_1
+      213: -4402683860037211162
+    second: ceora_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -99,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: aula1_tarefa_0
+      name: ceora_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 29
-        width: 104
-        height: 102
+        x: 0
+        y: 0
+        width: 133
+        height: 173
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1830a60b562eadce0800000000000000
-      internalID: -1379541409456323711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: aula1_tarefa_1
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 31
-        width: 98
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9062c31fb934c7330800000000000000
-      internalID: 3709914530092688905
+      spriteID: 6ebe2201b5686e2c0800000000000000
+      internalID: -4402683860037211162
       vertices: []
       indices: 
       edges: []
@@ -172,9 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      aula1_tarefa_0: -1379541409456323711
-      aula1_tarefa_1: 3709914530092688905
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
